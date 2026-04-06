@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="unmap/unmap.vcxproj" Id="95d2d13c-8829-45eb-9499-46ae220d222a" />
+</Solution>
